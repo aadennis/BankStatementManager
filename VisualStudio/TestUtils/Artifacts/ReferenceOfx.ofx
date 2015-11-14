@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="us-ascii" standalone="yes"?>
+<?OFX OFXHEADER="200" VERSION="200" SECURITY="NONE" OLDFILEUID="NONE" NEWFILEUID="NONE"?>
+<OFX>
+  <SIGNONMSGSRSV1>
+    <SONRS>
+      <STATUS>
+        <CODE>0</CODE>
+        <SEVERITY>INFO</SEVERITY>
+      </STATUS>
+      <DTSERVER>20150112222930</DTSERVER>
+      <LANGUAGE>ENG</LANGUAGE>
+    </SONRS>
+  </SIGNONMSGSRSV1>
+  <BANKMSGSRSV1>
+    <STMTTRNRS>
+      <TRNUID>1</TRNUID>
+      <STATUS>
+        <CODE>0</CODE>
+        <SEVERITY>INFO</SEVERITY>
+      </STATUS>
+      <STMTRS>
+        <CURDEF>GBP</CURDEF>
+        <BANKACCTFROM>
+          <BANKID>223344</BANKID>
+          <ACCTID>333555666</ACCTID>
+          <ACCTTYPE>CHECKING</ACCTTYPE>
+        </BANKACCTFROM>
+        <BANKTRANLIST>
+          <DTSTART>20151025000000</DTSTART>
+          <DTEND>20151210000000</DTEND>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20151025000000</DTPOSTED>
+            <TRNAMT>-13.00</TRNAMT>
+            <FITID>83-1</FITID>
+            <NAME>208728</NAME>
+            <MEMO>208728</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20151029000000</DTPOSTED>
+            <TRNAMT>-30.00</TRNAMT>
+            <FITID>83-2</FITID>
+            <NAME>LINK 12:49OCT29</NAME>
+            <MEMO>LINK 12:49OCT29</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20151101000000</DTPOSTED>
+            <TRNAMT>-6.10</TRNAMT>
+            <FITID>83-3</FITID>
+            <NAME>DENTAL PLAN</NAME>
+            <MEMO>DENTAL PLAN</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20151102000000</DTPOSTED>
+            <TRNAMT>-50.00</TRNAMT>
+            <FITID>83-4</FITID>
+            <NAME>MR &amp; MRS VERY MONTHLY</NAME>
+            <MEMO>MR &amp; MRS VERY MONTHLY</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20151102000000</DTPOSTED>
+            <TRNAMT>-2250.00</TRNAMT>
+            <FITID>83-5</FITID>
+            <NAME>FURTHER A/C 0/339977-</NAME>
+            <MEMO>FURTHER A/C 0/339977-</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20151105000000</DTPOSTED>
+            <TRNAMT>-3.00</TRNAMT>
+            <FITID>83-6</FITID>
+            <NAME>SUSTRANS 1235159</NAME>
+            <MEMO>SUSTRANS 1235159</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20151107000000</DTPOSTED>
+            <TRNAMT>-143.00</TRNAMT>
+            <FITID>83-7</FITID>
+            <NAME>208729</NAME>
+            <MEMO>208729</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20151107000000</DTPOSTED>
+            <TRNAMT>-123.00</TRNAMT>
+            <FITID>83-8</FITID>
+            <NAME>208730</NAME>
+            <MEMO>208730</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20151107000000</DTPOSTED>
+            <TRNAMT>-468.53</TRNAMT>
+            <FITID>83-9</FITID>
+            <NAME>CREDIT CARD YOU LIKE 33445566</NAME>
+            <MEMO>CREDIT CARD YOU LIKE 33445566</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>CREDIT</TRNTYPE>
+            <DTPOSTED>20151108000000</DTPOSTED>
+            <TRNAMT>+15.49</TRNAMT>
+            <FITID>83-10</FITID>
+            <NAME>MY PEPPERCORN SALARY E574547/GBP</NAME>
+            <MEMO>MY PEPPERCORN SALARY E574547/GBP</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>CREDIT</TRNTYPE>
+            <DTPOSTED>20151113000000</DTPOSTED>
+            <TRNAMT>+9.37</TRNAMT>
+            <FITID>83-11</FITID>
+            <NAME>BANQUE DE QUEBEC</NAME>
+            <MEMO>BANQUE DE QUEBEC</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20151120000000</DTPOSTED>
+            <TRNAMT>-10.00</TRNAMT>
+            <FITID>83-12</FITID>
+            <NAME>MACD LOVING IT</NAME>
+            <MEMO>MACD LOVING IT</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20151121000000</DTPOSTED>
+            <TRNAMT>-10.86</TRNAMT>
+            <FITID>83-13</FITID>
+            <NAME>LOCAL GYM MEMBERSHIP</NAME>
+            <MEMO>LOCAL GYM MEMBERSHIP</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>CREDIT</TRNTYPE>
+            <DTPOSTED>20151122000000</DTPOSTED>
+            <TRNAMT>+100.16</TRNAMT>
+            <FITID>83-14</FITID>
+            <NAME>MY PEPPERCORN SALARY</NAME>
+            <MEMO>MY PEPPERCORN SALARY</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20151123000000</DTPOSTED>
+            <TRNAMT>-10.50</TRNAMT>
+            <FITID>83-15</FITID>
+            <NAME>BRITISH RAIL</NAME>
+            <MEMO>BRITISH RAIL</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20151130000000</DTPOSTED>
+            <TRNAMT>-3.54</TRNAMT>
+            <FITID>83-16</FITID>
+            <NAME>208731</NAME>
+            <MEMO>208731</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20151130000000</DTPOSTED>
+            <TRNAMT>-213.00</TRNAMT>
+            <FITID>83-17</FITID>
+            <NAME>208732</NAME>
+            <MEMO>208732</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20151130000000</DTPOSTED>
+            <TRNAMT>-43.90</TRNAMT>
+            <FITID>83-18</FITID>
+            <NAME>208733</NAME>
+            <MEMO>208733</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20151130000000</DTPOSTED>
+            <TRNAMT>-13.00</TRNAMT>
+            <FITID>83-19</FITID>
+            <NAME>208734</NAME>
+            <MEMO>208734</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20151203000000</DTPOSTED>
+            <TRNAMT>-56.10</TRNAMT>
+            <FITID>83-20</FITID>
+            <NAME>WIND TURBINE INVESTMENTS INC</NAME>
+            <MEMO>WIND TURBINE INVESTMENTS INC</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20151203000000</DTPOSTED>
+            <TRNAMT>-2150.00</TRNAMT>
+            <FITID>83-21</FITID>
+            <NAME>BTMLESS PIT CONIONS 0/997737</NAME>
+            <MEMO>BTMLESS PIT CONIONS 0/997737</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20151204000000</DTPOSTED>
+            <TRNAMT>-20.00</TRNAMT>
+            <FITID>83-22</FITID>
+            <NAME>LINK 07:39DEC04</NAME>
+            <MEMO>LINK 07:39DEC04</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20151205000000</DTPOSTED>
+            <TRNAMT>-25.00</TRNAMT>
+            <FITID>83-23</FITID>
+            <NAME>208735</NAME>
+            <MEMO>208735</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20151205000000</DTPOSTED>
+            <TRNAMT>-3.01</TRNAMT>
+            <FITID>83-24</FITID>
+            <NAME>SUSTRANS 493</NAME>
+            <MEMO>SUSTRANS 493</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20151210000000</DTPOSTED>
+            <TRNAMT>-543.27</TRNAMT>
+            <FITID>83-25</FITID>
+            <NAME>MORE ON THE CARD CREDIT CARDS</NAME>
+            <MEMO>MORE ON THE CARD CREDIT CARDS</MEMO>
+          </STMTTRN>
+        </BANKTRANLIST>
+        <LEDGERBAL>
+          <BALAMT>577.13</BALAMT>
+          <DTASOF>20151210000000</DTASOF>
+        </LEDGERBAL>
+        <AVAILBAL>
+          <BALAMT>577.13</BALAMT>
+          <DTASOF>20151210000000</DTASOF>
+        </AVAILBAL>
+      </STMTRS>
+    </STMTTRNRS>
+  </BANKMSGSRSV1>
+</OFX>
